@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aishwarya Tharoor</title>
-	<atom:link href="//feed/" rel="self" type="application/rss+xml" />
-	<link>//</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Dec 2023 09:18:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>//wp-content/uploads/2023/09/cropped-fav-icon-32x32.png</url>
+	<url>/wp-content/uploads/2023/09/cropped-fav-icon-32x32.png</url>
 	<title>Aishwarya Tharoor</title>
-	<link>//</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Overcoming Procrastination: Harnessing Motivation for Productivity</title>
-		<link>//blog/overcoming-procrastination-harnessing-motivation-for-productivity/</link>
+		<link>/blog/overcoming-procrastination-harnessing-motivation-for-productivity/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Mon, 04 Dec 2023 08:02:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=1095</guid>
+		<guid isPermaLink="false">/?p=1095</guid>
 
 					<description><![CDATA[Procrastination is something we all encounter—a universal part of being human. Whether it&#8217;s due to feeling overwhelmed, lacking motivation, or simply being out of the mood, we tend to postpone tasks. It&#8217;s crucial to recognize that procrastination isn&#8217;t a flaw in our character; it&#8217;s a coping mechanism, a habit we use to avoid uncomfortable or [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,7 +58,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="615" src="//wp-content/uploads/2023/12/overcoming-banner-1024x615.webp" alt="overcoming-banner" class="wp-image-1099" style="width:664px;height:auto" srcset="//wp-content/uploads/2023/12/overcoming-banner-1024x615.webp 1024w, //wp-content/uploads/2023/12/overcoming-banner-300x180.webp 300w, //wp-content/uploads/2023/12/overcoming-banner-768x461.webp 768w, //wp-content/uploads/2023/12/overcoming-banner.webp 1378w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="615" src="/wp-content/uploads/2023/12/overcoming-banner-1024x615.webp" alt="overcoming-banner" class="wp-image-1099" style="width:664px;height:auto" srcset="/wp-content/uploads/2023/12/overcoming-banner-1024x615.webp 1024w, /wp-content/uploads/2023/12/overcoming-banner-300x180.webp 300w, /wp-content/uploads/2023/12/overcoming-banner-768x461.webp 768w, /wp-content/uploads/2023/12/overcoming-banner.webp 1378w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -207,12 +207,12 @@
 			</item>
 		<item>
 		<title>Reality vs. Perception: The Key to Navigating Misunderstandings</title>
-		<link>//blog/reality-vs-perception-the-key-to-navigating-misunderstandings/</link>
+		<link>/blog/reality-vs-perception-the-key-to-navigating-misunderstandings/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Thu, 23 Nov 2023 05:51:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=1066</guid>
+		<guid isPermaLink="false">/?p=1066</guid>
 
 					<description><![CDATA[“Life is a series of moments, coloured by our perspectives” You might have heard that “perception is reality”, and there is a lot of debate about it, whether it is true or not. This is because your perceptions can be true or can even be false and misleading. But there is something that is definitely [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -221,7 +221,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Life Is A Series Of Moments, Colored By Our Perspective |  Aishwarya Tharoor" width="800" height="450" src="https://www.youtube.com/embed/rNfOaroaZWw?feature=oembed&#038;enablejsapi=1&#038;origin=https://meenakshi.inkliksites.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Life Is A Series Of Moments, Colored By Our Perspective |  Aishwarya Tharoor" width="800" height="450" src="https://www.youtube.com/embed/rNfOaroaZWw?feature=oembed&#038;enablejsapi=1&#038;origin=https://rajandev.inkliksites.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -284,7 +284,7 @@
 
 
 
-<p class="pleft"><a href="//blog/the-power-of-perception-how-your-mind-shapes-your-reality/">Perception plays a significant role in shaping relationships</a> and often contributes to misunderstandings due to several key factors:</p>
+<p class="pleft"><a href="/blog/the-power-of-perception-how-your-mind-shapes-your-reality/">Perception plays a significant role in shaping relationships</a> and often contributes to misunderstandings due to several key factors:</p>
 
 
 
@@ -321,7 +321,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="How To Manage Your Perspective | Aishwarya Tharoor" width="800" height="450" src="https://www.youtube.com/embed/QduUb00Qe-8?feature=oembed&#038;enablejsapi=1&#038;origin=https://meenakshi.inkliksites.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="How To Manage Your Perspective | Aishwarya Tharoor" width="800" height="450" src="https://www.youtube.com/embed/QduUb00Qe-8?feature=oembed&#038;enablejsapi=1&#038;origin=https://rajandev.inkliksites.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -373,7 +373,7 @@
 
 
 
-<p class="pleft">While solving the misunderstandings in your relationships with friends, <a href="//blog/nurturing-love-the-vital-role-of-boundaries-in-romantic-relationships/">partners</a>, parents, siblings, relatives, colleagues, etc. you should protect your mental health and <a href="//blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/">understand where to draw your boundaries</a>.</p>
+<p class="pleft">While solving the misunderstandings in your relationships with friends, <a href="/blog/nurturing-love-the-vital-role-of-boundaries-in-romantic-relationships/">partners</a>, parents, siblings, relatives, colleagues, etc. you should protect your mental health and <a href="/blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/">understand where to draw your boundaries</a>.</p>
 
 
 
@@ -393,12 +393,12 @@
 			</item>
 		<item>
 		<title>The Science of Stress Management: Strategies for a Peaceful Mind</title>
-		<link>//blog/the-science-of-stress-management-strategies-for-a-peaceful-mind/</link>
+		<link>/blog/the-science-of-stress-management-strategies-for-a-peaceful-mind/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2023 07:56:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=1028</guid>
+		<guid isPermaLink="false">/?p=1028</guid>
 
 					<description><![CDATA[In today&#8217;s fast-paced world, stress has become an almost inevitable part of our lives. Whether it&#8217;s work, family, finances, or even the daily commute, stress can manifest in various forms and take a toll on our physical and mental well-being. However, understanding the science of stress management can empower us with effective strategies to cultivate [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -749,7 +749,7 @@
 
 
 
-<p><strong>11. Maintain boundaries:</strong>  You should try to <a href="//blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/">maintain boundaries with the negative things and people</a> who keep stressing you out. If you are a people pleaser then you must avoid people who try to take advantage of your kindness and unload their burden on your shoulders.</p>
+<p><strong>11. Maintain boundaries:</strong>  You should try to <a href="/blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/">maintain boundaries with the negative things and people</a> who keep stressing you out. If you are a people pleaser then you must avoid people who try to take advantage of your kindness and unload their burden on your shoulders.</p>
 
 
 
@@ -773,12 +773,12 @@
 			</item>
 		<item>
 		<title>Nurturing Love: The Vital Role of Boundaries in Romantic Relationships</title>
-		<link>//blog/nurturing-love-the-vital-role-of-boundaries-in-romantic-relationships/</link>
+		<link>/blog/nurturing-love-the-vital-role-of-boundaries-in-romantic-relationships/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 10:15:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=990</guid>
+		<guid isPermaLink="false">/?p=990</guid>
 
 					<description><![CDATA[The term &#8220;boundary&#8221; comes from the Old French word &#8220;bonde&#8221;, which means &#8220;limit.&#8221; Boundaries can be either invisible or, in some cases, marked by visible lines. They serve as a demarcation point where one entity concludes and another begins.&#160; In this blog, I will discuss the role of boundaries in maintaining healthy relationships. Different Types [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -802,7 +802,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="//wp-content/uploads/2023/11/ofries-1024x683.webp" alt="" class="wp-image-993" style="width:595px;height:auto" srcset="//wp-content/uploads/2023/11/ofries-1024x683.webp 1024w, //wp-content/uploads/2023/11/ofries-300x200.webp 300w, //wp-content/uploads/2023/11/ofries-768x512.webp 768w, //wp-content/uploads/2023/11/ofries-1536x1024.webp 1536w, //wp-content/uploads/2023/11/ofries.webp 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<figure class="aligncenter size-large is-resized"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/11/ofries-1024x683.webp" alt="" class="wp-image-993" style="width:595px;height:auto" srcset="/wp-content/uploads/2023/11/ofries-1024x683.webp 1024w, /wp-content/uploads/2023/11/ofries-300x200.webp 300w, /wp-content/uploads/2023/11/ofries-768x512.webp 768w, /wp-content/uploads/2023/11/ofries-1536x1024.webp 1536w, /wp-content/uploads/2023/11/ofries.webp 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -984,12 +984,12 @@
 			</item>
 		<item>
 		<title>The Power of Perception: How Your Mind Shapes Your Reality </title>
-		<link>//blog/the-power-of-perception-how-your-mind-shapes-your-reality/</link>
+		<link>/blog/the-power-of-perception-how-your-mind-shapes-your-reality/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Mon, 30 Oct 2023 09:43:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=824</guid>
+		<guid isPermaLink="false">/?p=824</guid>
 
 					<description><![CDATA[You might have heard a lot of people say that “perception is reality”. So, what does this mean? This simply means that whatever we think of ourselves, others, and situations can shape our reality. Let us understand this with an example: when shopping online, you read customer reviews to make informed decisions. A product may [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -1258,12 +1258,12 @@
 			</item>
 		<item>
 		<title>What is the Role of Boundaries in Maintaining Happy Relationships</title>
-		<link>//blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/</link>
+		<link>/blog/what-is-the-role-of-boundaries-in-maintaining-happy-relationships/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Mon, 30 Oct 2023 09:10:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=805</guid>
+		<guid isPermaLink="false">/?p=805</guid>
 
 					<description><![CDATA[Are you also someone who cannot say “no” to anyone? And this people-pleasing trait is harming your mental health and making you feel stressed, tired, burned out, and there is some feeling of rage for yourself? I can totally understand what you might be feeling right now. Hello, I am Aishwarya Tharoor, a clinical psychologist, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -1479,12 +1479,12 @@
 			</item>
 		<item>
 		<title>Don&#8217;t Look For Motivation From Others: 5  Key Tips to Motivate Yourself and Achieve Your Life Goals</title>
-		<link>//blog/dont-look-for-motivation-from-others5-key-tips-to-motivate-yourself-and-achieve-your-life-goals/</link>
+		<link>/blog/dont-look-for-motivation-from-others5-key-tips-to-motivate-yourself-and-achieve-your-life-goals/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Sat, 07 Oct 2023 07:42:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=573</guid>
+		<guid isPermaLink="false">/?p=573</guid>
 
 					<description><![CDATA[I&#8217;ve observed that many people seek motivation externally, from successful individuals, their peers, their boss, motivational videos, or even friends and family. However, this external motivation often proves fleeting because it doesn&#8217;t align with their own life experiences and paths.&#160; While it&#8217;s fine to admire and learn from successful people, true and lasting motivation comes [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -1658,12 +1658,12 @@
 			</item>
 		<item>
 		<title>5 Roadblocks on the Path to Your Goals (And How to Conquer Them)</title>
-		<link>//blog/5-roadblocks-on-the-path-to-your-goals-and-how-to-conquer-them/</link>
+		<link>/blog/5-roadblocks-on-the-path-to-your-goals-and-how-to-conquer-them/</link>
 		
 		<dc:creator><![CDATA[aishwareya_dev]]></dc:creator>
 		<pubDate>Wed, 04 Oct 2023 11:01:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=526</guid>
+		<guid isPermaLink="false">/?p=526</guid>
 
 					<description><![CDATA[Everyone has dreams. Dreams fuel our passion and give our lives purpose. We all set out with big aspirations, from scaling the corporate ladder to publishing a best-selling novel, our aspirations drive us and give our lives purpose. Yet, as passionately as we chase these dreams, often there are unseen obstacles that trip us up [&#8230;]]]></description>
 										<content:encoded><![CDATA[

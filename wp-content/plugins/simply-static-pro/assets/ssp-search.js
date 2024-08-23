@@ -28,48 +28,30 @@ if (null !== fuse_config_element) {
         }
     }
 
-
-
-    async function loadConfig(callback) {
-
-        try {
-            const response = await fetch( config_url, {
-                headers: {
-                    "Content-Type": "application/json",
-                }
-            });
-            if (!response.ok) {
-                throw new Error(`Response status: ${response.status}`);
+    function loadConfig(callback) {
+        let xobj = new XMLHttpRequest();
+        xobj.overrideMimeType("application/json");
+        xobj.open('GET', config_url, false);
+        xobj.onreadystatechange = function () {
+            if (xobj.readyState == 4 && xobj.status == "200") {
+                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                callback(xobj.responseText);
             }
-
-            const json = await response.text();
-            callback(json);
-
-        } catch (error) {
-            console.error(error.message);
-        }
-
-
+        };
+        xobj.send(null);
     }
 
-    async function loadIndex(callback) {
-        try {
-            const response = await fetch( index_url, {
-                headers: {
-                    "Content-Type": "application/json",
-                }
-            });
-            if (!response.ok) {
-                throw new Error(`Response status: ${response.status}`);
+    function loadIndex(callback) {
+        let xobj = new XMLHttpRequest();
+        xobj.overrideMimeType("application/json");
+        xobj.open('GET', index_url, false);
+        xobj.onreadystatechange = function () {
+            if (xobj.readyState == 4 && xobj.status == "200") {
+                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                callback(xobj.responseText);
             }
-
-            const json = await response.text();
-            callback(json);
-
-        } catch (error) {
-            console.error(error.message);
-        }
-
+        };
+        xobj.send(null);
     }
 
     loadIndex(function (response) {
